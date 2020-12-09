@@ -46,7 +46,7 @@ Yep! But I think i forget **Markdown**. That helps me to create this page. Hmmm 
 | VMware | Sometimes needs to switch other OS for testing purpose |
 
 ---
-<img align="right" alt="Coding" width="200" src="rocket.gif">
+<img align="right" alt="Coding" width="200" src="Rocket.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
