@@ -18,16 +18,16 @@ You can also notice me as:
 
 ## Languages That I Speak And Learning
 
-I use a number of programming languages because it's like fun and for work properly:
+I use few number of programming languages because it's like fun and for work properly:
 
 * **C** - Nobody can't ignore it!
-* **C++** - First Place Where I Learnt OOPs Concept
+* **C++** - First Place Where I Introduced To OOPs Concept
 * **Python** - Language that is normally talk and walk **My Bae !!!**
 * **HTML** - HTML enhanced for web apps!
 * **CSS** - To put a lot on web plate
 * **JavaScript** - Mainly need in my both profession
-* **C#** - Number one in my Bucket 
-* **Bash Scripting** - Bash comes handy when automation needed in on linux tools
+* **C#** - Number one in my Bucket List
+* **Bash Scripting** - Bash comes handy when automation needed in linux
 
 Yep! But I think i forget **Markdown**. That helps me to create this page. Hmmm No Worries
 
